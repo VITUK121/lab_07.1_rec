@@ -1,0 +1,3 @@
+﻿  lab_07.1_rec.cpp
+C:\Users\VITUK\source\repos\lab_07.1_rec\lab_07.1_rec\lab_07.1_rec.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab_07.1_rec.vcxproj -> C:\Users\VITUK\source\repos\lab_07.1_rec\x64\Debug\lab_07.1_rec.exe
